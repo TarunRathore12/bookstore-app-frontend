@@ -1,8 +1,9 @@
-# React + Vite
+# Getting started with BookStore APP
+  
+  This project is built on REACT JS using the VITE template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# TO RUN the app on local machine in development mode -
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  > DO 'npm install' in root directory
+  > Add .env file & update it using the env_placeholder file
+  > Run 'npm run dev'
